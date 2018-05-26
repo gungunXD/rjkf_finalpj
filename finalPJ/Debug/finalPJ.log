@@ -1,6 +1,5 @@
 ﻿  Main.cpp
-c:\users\mrt15\desktop\软件设计与开发\finalpj\finalpj\main.cpp(135): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-c:\users\mrt15\desktop\软件设计与开发\finalpj\finalpj\main.cpp(136): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-c:\users\mrt15\desktop\软件设计与开发\finalpj\finalpj\main.cpp(138): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-  finalPJ.vcxproj -> C:\Users\Mrt15\Desktop\软件设计与开发\finalPJ\Debug\finalPJ.exe
-  finalPJ.vcxproj -> C:\Users\Mrt15\Desktop\软件设计与开发\finalPJ\Debug\finalPJ.pdb (Full PDB)
+c:\users\翼\desktop\finalpj\finalpj\main.cpp(143): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\翼\desktop\finalpj\finalpj\main.cpp(144): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\翼\desktop\finalpj\finalpj\main.cpp(146): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  finalPJ.vcxproj -> C:\Users\翼\Desktop\finalPJ\Debug\finalPJ.exe
